@@ -11,6 +11,5 @@
 Backend (api): https://alelepere.pythonanywhere.com/usuarios
 Frontend : https://ezequieltartaglia.github.io/proyectofinal/templates/usuarios.html
 
-## Developers
-- Alejandro Lepere
-- Ezequiel Tartaglia
+### Developers
+ Alejandro Lepere & Ezequiel Tartaglia
